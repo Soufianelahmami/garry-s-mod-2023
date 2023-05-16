@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Garry's Mod is a physics-based sandbox game that allows players to manipulate objects, build structures, and create their own game modes using the Source Engine.","photo2":"https://iili.io/HUr4HqN.jpg"},
+  {"desc3":"Initially starting as a simple mod for Valve's Half-Life 2, GMod quickly gained popularity and eventually became a standalone game. ","photo3":"https://iili.io/HUr4J1I.jpg"},
+  {"desc4":"The core of GMod lies in its sandbox gameplay, enabling players to spawn props, NPCs, and vehicles, and interact with them in a variety of ways.","photo4":"https://iili.io/HUr43dX.jpg"},
+  {"desc5":"In 2023, Garry's Mod has evolved significantly from its humble beginnings. Facepunch Studios has continued to support and update the game, ","photo5":"https://iili.io/HUr4F7n.png"},
+  {"descd":"introducing new features and enhancements to enrich the player experience. ","photod":"https://iili.io/HUr4dgt.webp"}
    ]
  
 }
